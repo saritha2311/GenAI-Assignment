@@ -1,0 +1,6 @@
+1. Registration to GROQ is completed
+2. Registration to api.testleaf.com is completed
+3. Postman client is installed in my Lpatop
+4. VS code installation completed
+5. Exploring Qwen AI, Claude, copilot, Chatgpt, GROG, Open AI
+6. Studying on different models and tokens.
